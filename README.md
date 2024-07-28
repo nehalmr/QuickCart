@@ -1,5 +1,7 @@
 # QuickCart
 
+#https://youtu.be/RCp_Nr1ffkY?feature=shared
+
 QuickCart is a user-friendly e-commerce platform developed by Team Adaptix. It's built using Python, Tkinter, Custom Tkinter, Firebase, JSON, and JWT, aiming to provide a secure and efficient shopping experience.
 
 ## 🛠️ Tech Stack
