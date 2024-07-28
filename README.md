@@ -24,18 +24,24 @@ QuickCart is a user-friendly e-commerce platform developed by Team Adaptix. It's
 ## Installation
 
 1. Clone the repository:
+   '''bash
    git clone https://github.com/nehalmr/QuickCart.git
    cd QuickCart
+   '''
 
-2. Install dependencies:
+3. Install dependencies:
+   '''bash
    pip install -r requirements.txt
+   '''
 
-3. Set up Firebase:
+5. Set up Firebase:
    - Create a Firebase project
    - Add your Firebase configuration to `firebase_config.json`
 
-4. Run the application:
+6. Run the application:
+   '''bash
    python main.py
+   '''
 
 ## Usage
 
